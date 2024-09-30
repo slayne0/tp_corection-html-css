@@ -1,7 +1,10 @@
 
+
+
+
 * {
     box-sizing: border-box;
-    margin: 0%;
+    margin: %;
 }
 
 img {
@@ -14,6 +17,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Figtree", sans-serif;
 }
 
 main {
